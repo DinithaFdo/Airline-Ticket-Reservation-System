@@ -1,0 +1,98 @@
+
+.manage-account-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.manage-account-container h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* User profile section */
+.user-profile {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.user-profile img {
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.upload-button {
+    background-color: #04AA6D;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.upload-button:hover {
+    background-color: #02824e; 
+}
+
+
+.account-form .form-group {
+    margin-bottom: 20px;
+}
+
+.account-form label {
+    font-weight: bold;
+    font-size: 16px;
+    color: #333;
+}
+
+.account-form input[type="text"],
+.account-form input[type="tel"],
+.account-form input[type="number"],
+.account-form select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+
+#delete-account-button {
+    background-color: #f44336; 
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+#delete-account-button:hover {
+    background-color: #d32f2f; 
+}
+
+
+.account-form button{
+    background-color: #04AA6D;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.account-form button:hover {
+    background-color: #02824e; 
+}
