@@ -1,4 +1,4 @@
-# FlyMaster - Airline Ticket Reservation System
+# [FlyMaster](https://iwt.dinitha.me/) - Airline Ticket Reservation System
 
 ![FlyMaster Banner](https://github.com/user-attachments/assets/5b58d070-8e59-4332-9e10-b48f05570e76)
 
@@ -29,6 +29,10 @@ FlyMaster is a comprehensive airline ticket reservation system designed to strea
 1. Import the [flymaster_login.sql](https://github.com/DinithaFdo/FlyMaster/blob/main/flymaster_login.sql) file to phpMyAdmin
 2. Check the connection.
 3. Instructions are added to [IMPORTANT.txt](https://github.com/DinithaFdo/FlyMaster/blob/main/IMPORTANT.txt) file
+
+## Getting Started
+
+To view and interact with the site, visit: [FlyMaster Site](https://iwt.dinitha.me/)
 
 ## Contact
 
