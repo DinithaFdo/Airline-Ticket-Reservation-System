@@ -1,0 +1,88 @@
+/* About Us Page CSS */
+.topic {
+    font-size: 30pt;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.crew {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.crew:hover {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+    transition: all 0.5s ease;
+}
+
+.about-us {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.number {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.description {
+    font-size: 16px;
+    color: #777;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.content {
+    border-radius: 8%;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: transparent;
+    text-align: center;
+}
+
+.content:hover {
+    background-color: #04AA6D;
+    transition: all 1s ease;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 16px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+
